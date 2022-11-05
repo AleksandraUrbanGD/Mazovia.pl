@@ -1,0 +1,15 @@
+Title: The "Search" button allows you to find any article or phrase
+Preconditions: Running the application
+Steps :1. Entering "Marszałek" in the content search button
+       2. Pressing the button marked with a magnifying glass
+Expected Result: Transfer to a subpage. Total search results - 24905
+
+
+Title: Advanced content search engine should contain a button "Data Publikacji"
+Preconditions: Running the application
+Steps :1. Clicking the magnifying glass button                ->    moved to bip.mazovia.pl/cms/search/index?q=
+       2. Press the "Wyszukiwanie Zaawanasowane" button       ->    An advanced search form will appear
+       3.Clicking "data publikacji"                           ->    The appearance of two calendars
+       4.Selecting a date range from 9/25/2022 to 10/25/2022  ->    Yellow marking of the date range
+       5.Clicking the "wybierz" button                        ->    Filling in the field "publication date" with the dates from 09/25 to 09/22
+Expected Result: The appearance of articles with the selected date range

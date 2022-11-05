@@ -1,0 +1,83 @@
+Project name: Mazovia.pl web application testing
+Author first and last name: Aleksandra Urban
+Version: 1.0
+	
+	I. INTRODUCTION
+	The project consists in testing a web application with the address: http://mazovia.pl
+  The aim of the project is to identify errors that may affect the malfunctioning of the website.
+	Materiały, które dostarczy testowanie przekazane zostaną deweloperow celem wprowadzenia poprawek. W drugiej kolejności przeprowadzone zostaną testy regresyjne. 
+	
+	II. OPIS
+	
+	1. Object
+	http://mazovia.pl
+	
+	2. List of things to test
+- connecting buttons,
+- placing buttons on the page,
+- button operation,
+- description of the published content,
+- content search engine support,
+- content sorting and filtering,
+- content search
+	
+	3. List of things that should not be tested
+- everything that is in the footer of the page,
+- security,
+- source code.
+
+4. System Requirements
+Windows 
+- Windows 10 and higher
+Browser
+- Chrome
+- Firefox
+	
+5. Bug tracking system
+Bugs should be reported through Jira.
+The title should be structured as follows:
+	[Device (Browser)] [Area] - Error description
+	
+  Example:
+[Windows 10 (Chrome)]  - Example: The "Dla słabowidzących" button does not increase the contrast of the content
+
+	        
+	III. Testing project management
+	
+	1. Team and tasks
+	Aleksandra Urban - tester,
+	
+	2. Harmonogram testów
+	Start of tests on 01/10/2022
+  End of tests on October 15/10/2022
+	
+
+	3. Test environment
+Windows 10 (Chrome)
+Windows 10 (Firefox)
+
+	
+	4.Test tools
+	- X-Ray,
+  - TestRail
+  - Jira
+	- githube.com,
+	- Selenium IDE.
+	
+	5. Criteria for test completion
+  Deadline 01/11/2022 or reaching the error limit - 100.
+	
+	6 Defects
+Types of defects: functional, visual, contextual, performance.
+	
+Meaning:
+critical (inability to use the website),
+high (significantly hindered in using the website),
+medium (slightly hindered using the website),
+low (cosmetic errors)
+	      
+	7. Bug tracking and reporting
+Reporting bugs will take place in Jira
+	
+	8. Risk
+Potentially too many bugs and too little time to report them. Then there is little time to repair faults. 

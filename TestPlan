@@ -4,10 +4,10 @@ Version: 1.0
 	
 	I. INTRODUCTION
 	The project consists in testing a web application with the address: http://mazovia.pl
-  The aim of the project is to identify errors that may affect the malfunctioning of the website.
-	Materiały, które dostarczy testowanie przekazane zostaną deweloperow celem wprowadzenia poprawek. W drugiej kolejności przeprowadzone zostaną testy regresyjne. 
+        The aim of the project is to identify errors that may affect the malfunctioning of the website.
+	The materials that will be provided by testing will be provided to the developers for corrections. Secondly, regression tests will be carried out.
 	
-	II. OPIS
+	II. DESCRIPTION
 	
 	1. Object
 	http://mazovia.pl
